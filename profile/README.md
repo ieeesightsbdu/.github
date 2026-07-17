@@ -1,4 +1,6 @@
-![SIGHT Logo](https://sight.ieeesbdu.org/wp-content/uploads/2023/01/sd-300x226.png)
+<p align="center">
+  <img src="https://sight.ieeesbdu.org/wp-content/uploads/2023/01/sd-300x226.png" alt="IEEE SIGHT Logo" width="220">
+</p>
 # Welcome to IEEE SIGHT SB DU
 Leveraging Technology for Sustainable Development
 
