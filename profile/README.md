@@ -3,7 +3,6 @@
 </p>
 
 # Welcome to IEEE SIGHT SB DU
-Leveraging Technology for Sustainable Development
 
 We are the **IEEE Special Interest Group on Humanitarian Technology (SIGHT)** at the **University of Dhaka**. Our branch is dedicated to leveraging engineering technology to sustainably help local underserved neighborhoods, often in collaboration with domestic organizations and non-profits.
 
@@ -21,3 +20,4 @@ To come together to learn about sustainable development, build strong relationsh
 - **Facebook:** [IEEE SIGHT SB DU](https://www.facebook.com/ieeesightsbdu)
 - **LinkedIN:** [IEEE SIGHT SB DU](https://www.linkedin.com/company/ieee-sight-sb-du/)
 
+*Leveraging Technology for Sustainable Development.*
