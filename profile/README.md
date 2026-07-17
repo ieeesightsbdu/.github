@@ -18,6 +18,6 @@ To come together to learn about sustainable development, build strong relationsh
 ### 📍 Connect With Us
 - **Official Website:** [sight.ieeesbdu.org](https://sight.ieeesbdu.org/home/)
 - **Facebook:** [IEEE SIGHT SB DU](https://www.facebook.com/ieeesightsbdu)
-- **LinkedIN:** [IEEE SIGHT SB DU](https://www.linkedin.com/company/ieee-sight-sb-du/)
+- **LinkedIn:** [IEEE SIGHT SB DU](https://www.linkedin.com/company/ieee-sight-sb-du/)
 
 *Leveraging Technology for Sustainable Development.*
